@@ -1,20 +1,57 @@
 body { 
-  width: 960px;
-  align-content: center;
+  background: url(../images/leaves.png)
 }
 
 .content {
   background-color: #ffffff;
   border-color: #dddddd;
+  border-width: 4px;
   font-family: Arial, Helvetica, sans-serif;
+  clear: both;
+  margin-right: 480px;
+  margin-left: 480px;
 }
 
 h2 {
   background-color: #ffffff;
   border-color: #666666;
   color: #4aaaa5;
+  clear: both;
+}
+
+.about {
+  float: right;
+  margin: 10px;
+}
+
+.portfolio {
+  float: right;
+  margin: 10px;
+}
+
+.contact {
+  float: right;
+  margin: 10px;
 }
 
 h1 {
   background-color: #4aaaa5;
+  float: left;
+  padding: 10px;
+  color: white;
+}
+
+ul {
+  float: right;
+  list-style: none;
+  font-size: 16px;
+}
+
+.header {
+  margin-bottom: 10px;
+  background-color: #ffffff;
+}
+
+.headshot {
+  float: left
 }
