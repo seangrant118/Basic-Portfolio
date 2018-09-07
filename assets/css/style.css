@@ -1,0 +1,20 @@
+body { 
+  width: 960px;
+  align-content: center;
+}
+
+.content {
+  background-color: #ffffff;
+  border-color: #dddddd;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  background-color: #ffffff;
+  border-color: #666666;
+  color: #4aaaa5;
+}
+
+h1 {
+  background-color: #4aaaa5;
+}
