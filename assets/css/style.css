@@ -96,3 +96,26 @@ form input{
 #message {
   height: 200px;
 }
+
+#images {
+  padding: 30px;
+}
+
+#img1, #img3, #img5 {
+  margin-right: 30px;
+}
+
+#img1, #img2, #img3, #img4, #img5, #img6 {
+  margin-bottom: 30px;
+}
+
+p {
+  position: absolute;
+  background-color: #4aaaa5;
+  color: white;
+  font-size: 24px;
+  padding: 16px;
+  width: 15%;
+  margin-left: 15px;
+  margin-top: 80px;
+}
